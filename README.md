@@ -27,5 +27,5 @@ A simple calculator app built with Android XML and Java/Kotlin (choose one based
 ## Usage
 
 1. **Press the buttons to perform basic arithmetic calculations.**
-2. **Use the C button to clear the current input.**
-3. **Use the = button (labeled as "Answer") to get the result of the calculation.**
+2. **Use the ```C``` button to clear the current input.**
+3. **Use the ```Answer``` button to get the result of the calculation.**
